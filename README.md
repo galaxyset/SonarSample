@@ -1,8 +1,13 @@
 # SonarSample
 
 https://www.vultr.com/docs/how-to-install-sonarqube-on-ubuntu-16-04
+
+
 https://www.howtoforge.com/tutorial/how-to-install-sonarqube-on-ubuntu-1604/
+
+
 https://www.voyalab.com/2016/10/06/install-sonarqube-ubuntu/
+
 
 Download Sonar scanner here:
 https://sonarsource.bintray.com/Distribution/sonar-scanner-cli/
